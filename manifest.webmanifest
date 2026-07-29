@@ -1,0 +1,32 @@
+{
+  "name": "Quản lý Duy Cúc",
+  "short_name": "Duy Cúc",
+  "description": "Quản lý công việc, cảnh báo và tài chính cá nhân.",
+  "lang": "vi-VN",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#F5F6F8",
+  "theme_color": "#1E3A5F",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
