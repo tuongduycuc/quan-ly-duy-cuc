@@ -1,4 +1,4 @@
-const CACHE_NAME = "duy-cuc-mobile-v8-6-24-selected-sync-20260809";
+const CACHE_NAME = "duy-cuc-mobile-v8-6-25-balanced-sync-20260809";
 const APP_SHELL = [
   "./manifest.webmanifest",
   "./icons/icon-192.png",
